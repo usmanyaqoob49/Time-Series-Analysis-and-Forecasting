@@ -1,2 +1,2 @@
 # Time-Series-Analysis-and-Forecasting
-hello world
+Include the Practice of time series analysis and forecasting on a dummy dataset.
